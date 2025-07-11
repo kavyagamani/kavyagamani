@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Kavya Hegde
 👩‍💻 MCA Student at Acharya Institute of Technology  
 
 🌱 Learning Python,PHP, Angular, Python, Java 
