@@ -7,9 +7,13 @@
 
 📫 Reach me at: kavyahegde@gmail.com
 
+### Connect with me:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagamani&layout=compact)
+
 
 ### 📊 GitHub Stats
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyagamani&show_icons=true&theme=radical)
+
+![GitHub stars](https://img.shields.io/github/stars/kavyagamani?label=Stars&style=social)
 
 
