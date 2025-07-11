@@ -30,3 +30,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/kavyagamani?label=Stars&style=social)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavyagamani&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavyagamani&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavyagamani&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavyagamani&theme=default&utcOffset=+5.5)
+
+
