@@ -1,4 +1,4 @@
-## Hi there 👋 I am Kavya Hegde
+## Hi  👋 I am Kavya Hegde
 
 ![Profile views](https://komarev.com/ghpvc/?username=kavyagamani&label=Profile%20views&color=0e75b6&style=flat)
 
