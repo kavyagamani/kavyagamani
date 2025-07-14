@@ -15,7 +15,7 @@
 💬 Ask me about Python, Web Development, DBMS, DSA 
 
 📫 Reach me at: kavyahegde@gmail.com
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavyagamani&theme=default) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavyagamani&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavyagamani&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavyagamani&theme=default)
