@@ -23,6 +23,6 @@
 
 
 ![GitHub stars](https://img.shields.io/github/stars/kavyagamani?label=Stars&style=social)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=5um4n7h&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kavyagamani&hide_border=true)](https://git.io/streak-stats)
 
 
