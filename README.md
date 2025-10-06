@@ -15,8 +15,21 @@
 🌱 Learning Python,PHP, Angular, Python, Java 
 
 💬 Ask me about Python, Web Development, DBMS, DSA 
+<h2 align="center"> Contact Me </h2>
+<div align="center">
+    <a href="mailto:kavyabhegde859@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/kavya-hegde-7634aa2a0" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/kavyaHegde88662" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+  
+</div>
 
-📫 Reach me at: kavyahegde@gmail.com
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavyagamani&theme=default) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavyagamani&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kavyagamani&theme=default)
