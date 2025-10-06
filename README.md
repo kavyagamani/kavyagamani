@@ -12,9 +12,10 @@
 
 👩‍💻 MCA Student at Acharya Institute of Technology  
 
-🌱 Learning Python,PHP, Angular, Python, Java 
+🌱 Learning Python,PHP, Angular,AI/ML, Java 
 
 💬 Ask me about Python, Web Development, DBMS, DSA 
+✍️passionate kannada poem,story,novel writer
 <h2 align="center"> Contact Me </h2>
 <div align="center">
     <a href="mailto:kavyabhegde859@gmail.com">
@@ -26,7 +27,10 @@
     <a href="https://x.com/kavyaHegde88662" target="_blank">
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-  
+  <a href="https://pratilipi.app.link/aMYugWEyfXb" target="_blank">
+  <img src="https://img.shields.io/badge/Pratilipi-FF6F00?style=for-the-badge&logo=pratilipi&logoColor=white" />
+</a>
+
 </div>
 
 
