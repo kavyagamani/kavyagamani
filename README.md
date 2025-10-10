@@ -3,7 +3,8 @@
 </h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kavyagamani&label=Profile%20views&color=0e75b6&style=flat)
-<h3>visit my profile:<a href="https://kavyahegde-portfolio.netlify.app/"></a></h3>
+<h4>visit my profile:<a href="https://kavyahegde-portfolio.netlify.app/" target="_blank">kavyahegde-portfolio.netlify.app</a>
+</h4>
 
 <a href="https://github.com/kavyagamani?tab=followers">
   <img src="https://img.shields.io/github/followers/kavyagamani?label=Follow&style=social" />
