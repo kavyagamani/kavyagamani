@@ -19,8 +19,6 @@
 
 <h2 align="center"> Contact Me </h2>
 <div align="center">
-
-    
     <a href="mailto:kavyabhegde859@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
