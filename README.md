@@ -15,7 +15,8 @@
 🌱 Learning Python,PHP, Angular,AI/ML, Java 
 
 💬 Ask me about Python, Web Development, DBMS, DSA 
-✍️passionate kannada poem,story,novel writer
+✍️passionate kannada poem,story,novel writer<br/>
+checkout my Portfolio<a href="https://kavyahegde-portfolio.netlify.app/"></a>
 
 <h2 align="center"> Contact Me </h2>
 <div align="center">
