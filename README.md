@@ -3,6 +3,7 @@
 </h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kavyagamani&label=Profile%20views&color=0e75b6&style=flat)
+<h3>visit my profile:<a href="https://kavyahegde-portfolio.netlify.app/"></a></h3>
 
 <a href="https://github.com/kavyagamani?tab=followers">
   <img src="https://img.shields.io/github/followers/kavyagamani?label=Follow&style=social" />
@@ -15,9 +16,7 @@
 🌱 Learning Python,PHP, Angular,AI/ML, Java 
 
 💬 Ask me about Python, Web Development, DBMS, DSA 
-✍️passionate kannada poem,story,novel writer<br/>
-checkout my Portfolio<a href="https://kavyahegde-portfolio.netlify.app/"></a>
-
+✍️passionate kannada poem,story,novel writer
 <h2 align="center"> Contact Me </h2>
 <div align="center">
     <a href="mailto:kavyabhegde859@gmail.com">
