@@ -8,7 +8,7 @@
 <a href="https://github.com/kavyagamani?tab=followers">
   <img src="https://img.shields.io/github/followers/kavyagamani?label=Follow&style=social" />
 </a>
-👩‍💻 MCA Student at Acharya Institute of Technology  
+👩‍💻 MCA Graduated Student Seeking entry level opportunities 
 
 🌱 Learning Python,PHP, Angular,AI/ML, Java 
 
