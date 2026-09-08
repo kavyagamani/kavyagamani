@@ -1,53 +1,47 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Kavya+Hegde!;+Java+Full+Stack+Developer;+Spring+Boot+%7C+React+%7C+SQL;+Building+Scalable+Applications;+Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Kavya+Hegde!;+Java+Full+Stack+Developer;+Spring+Boot+%7C+React+%7C+SQL;+Building+Scalable+Web+Applications;+Always+Learning+and+Growing+🚀" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20Developer-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20Developer-2563EB?style=flat-square">
+  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full%20Stack%20Development-green?style=flat-square">
 </p>
 
 <p align="center">
 <strong>
-Passionate Java Full Stack Developer focused on building scalable, secure and user-friendly applications while continuously learning modern technologies.
+Passionate Software Developer focused on building scalable, secure and efficient web applications using modern Java technologies.
 </strong>
 </p>
 
 <br/>
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
+<table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-<h3>🚀 About Me</h3>
+<h3>🚀 Professional Summary</h3>
 
 <ul>
+<li>Java Full Stack Developer focused on modern web application development.</li>
 
-<li>🎓 MCA Graduate actively seeking Java Full Stack Developer opportunities.</li>
+<li>Strong foundation in Java, OOP, SQL, DBMS, Data Structures and Software Engineering.</li>
 
-<li>💼 Developed ERP-based web applications using PHP, CodeIgniter, JavaScript and MySQL.</li>
+<li>Building applications using Spring Boot, React, REST APIs and relational databases.</li>
 
-<li>🌱 Currently mastering Spring Boot, React, Docker, JWT Authentication, REST APIs and Microservices.</li>
+<li>Exploring Microservices, Docker, Authentication & Authorization and Cloud technologies.</li>
 
-<li>🤖 Built AI Chatbot, Weather API Integration and Full Stack Web Applications.</li>
+<li>Interested in Backend Engineering, System Design and scalable application architecture.</li>
 
-<li>⚡ Interested in Backend Engineering, Cloud Technologies and System Design.</li>
-
-<li>📚 Continuously improving Data Structures, Algorithms and Problem Solving skills.</li>
-
-<li>✍️ Passionate Kannada Poet, Story and Novel Writer.</li>
-
-<li>🎯 Goal: Become a highly skilled Java Full Stack Engineer building enterprise applications.</li>
-
+<li>Committed to continuous learning and writing clean, maintainable code.</li>
 </ul>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagamani&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kavyagamani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </td>
 
@@ -56,24 +50,21 @@ Passionate Java Full Stack Developer focused on building scalable, secure and us
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Ecosystem</h2>
+<h2 align="center">🛠️ Core Technologies</h2>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br/>
 
@@ -83,49 +74,46 @@ Passionate Java Full Stack Developer focused on building scalable, secure and us
 
 <br/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Learning-AWS-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Kubernetes-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-System_Design-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Engineering Focus</h2>
 
 <div align="center">
 
-🌞 <b>Apolaki Solar Assessment Platform</b><br/>
-Solar analytics, marketplace and assessment platform built using modern full-stack technologies.
+<table>
+<tr>
+<td align="center">⚡ Backend Development</td>
+<td align="center">⚡ Spring Boot Applications</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td align="center">⚡ REST API Design</td>
+<td align="center">⚡ Authentication & Security</td>
+</tr>
 
-🤖 <b>Gemini AI Chatbot</b><br/>
-AI-powered conversational assistant with API integration.
+<tr>
+<td align="center">⚡ Database Design</td>
+<td align="center">⚡ Full Stack Development</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td align="center">⚡ Docker & Containers</td>
+<td align="center">⚡ System Design Fundamentals</td>
+</tr>
 
-🌦 <b>Weather Forecast Application</b><br/>
-Real-time weather updates using external APIs and responsive UI.
-
-<br/><br/>
-
-🏢 <b>ERP Management System</b><br/>
-Enterprise web application developed using PHP, CodeIgniter, MySQL and JavaScript.
+</table>
 
 </div>
 
@@ -135,9 +123,17 @@ Enterprise web application developed using PHP, CodeIgniter, MySQL and JavaScrip
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavyagamani&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavyagamani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyagamani&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyagamani&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagamani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -168,7 +164,7 @@ Enterprise web application developed using PHP, CodeIgniter, MySQL and JavaScrip
 </a>
 
 <a href="https://pratilipi.app.link/aMYugWEyfXb">
-<img src="https://img.shields.io/badge/Pratilipi-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
 </div>
@@ -176,9 +172,9 @@ Enterprise web application developed using PHP, CodeIgniter, MySQL and JavaScrip
 <br/>
 
 <h3 align="center">
-💡 "First solve the problem, then write the code."
+💡 "Building software that solves real-world problems."
 </h3>
 
 <p align="center">
-⭐ Open to Java Full Stack Developer Opportunities
+Open to Java Full Stack Developer Opportunities 🚀
 </p>
