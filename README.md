@@ -21,31 +21,29 @@ Passionate Software Developer focused on building scalable, secure and efficient
 
 <td width="55%" valign="top">
 
-<h3>🚀 Professional Summary</h3>
+<h2 align="center">💻 Engineering Profile</h2>
 
-<ul>
-<li>Java Full Stack Developer focused on modern web application development.</li>
+<p align="center">
 
-<li>Strong foundation in Java, OOP, SQL, DBMS, Data Structures and Software Engineering.</li>
+🔹 Java Full Stack Developer
 
-<li>Building applications using Spring Boot, React, REST APIs and relational databases.</li>
+🔹 Backend-Focused Engineer
 
-<li>Exploring Microservices, Docker, Authentication & Authorization and Cloud technologies.</li>
+🔹 Spring Boot & React Enthusiast
 
-<li>Interested in Backend Engineering, System Design and scalable application architecture.</li>
+🔹 REST API Developer
 
-<li>Committed to continuous learning and writing clean, maintainable code.</li>
-</ul>
+🔹 Database Design & Optimization
 
-</td>
+🔹 Docker & Modern Development Practices
 
-<td width="45%" align="center">
+🔹 Continuous Learner
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavyagamani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
 </td>
 
-</tr>
+
 </table>
 
 <br/>
