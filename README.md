@@ -16,10 +16,8 @@ Passionate Software Developer focused on building scalable, secure and efficient
 
 <br/>
 
-<table align="center">
-<tr>
 
-<td width="55%" valign="top">
+
 
 <h2 align="center">💻 Engineering Profile</h2>
 
@@ -41,10 +39,7 @@ Passionate Software Developer focused on building scalable, secure and efficient
 
 </p>
 
-</td>
 
-
-</table>
 
 <br/>
 
@@ -86,32 +81,10 @@ Passionate Software Developer focused on building scalable, secure and efficient
 
 <br/>
 
-<h2 align="center">🚀 Engineering Focus</h2>
 
-<div align="center">
 
-<table>
-<tr>
-<td align="center">⚡ Backend Development</td>
-<td align="center">⚡ Spring Boot Applications</td>
-</tr>
 
-<tr>
-<td align="center">⚡ REST API Design</td>
-<td align="center">⚡ Authentication & Security</td>
-</tr>
 
-<tr>
-<td align="center">⚡ Database Design</td>
-<td align="center">⚡ Full Stack Development</td>
-</tr>
-
-<tr>
-<td align="center">⚡ Docker & Containers</td>
-<td align="center">⚡ System Design Fundamentals</td>
-</tr>
-
-</table>
 
 </div>
 
